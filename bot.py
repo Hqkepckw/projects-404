@@ -2,4 +2,5 @@ import discord from discord.ext
 
 
 
-async def on_ready()
+async def on_ready():
+  
